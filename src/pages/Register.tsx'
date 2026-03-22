@@ -1,0 +1,11 @@
+import StudentForm from "../components/StudentForm.tsx";
+
+function Register() {
+  return (
+    <div>
+      <StudentForm />
+    </div>
+  );
+}
+
+export default Register;
